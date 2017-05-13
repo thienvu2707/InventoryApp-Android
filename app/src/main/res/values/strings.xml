@@ -1,0 +1,53 @@
+<resources>
+    <!--App name-->
+    <string name="app_name">Inventory App</string>
+
+    <!--Empty view section-->
+    <string name="empty_view_title">The store is empty now!</string>
+    <string name="empty_view_subTitle">Need to add a item</string>
+
+    <string name="sale_button">Sale</string>
+    <string name="new_product">Add new item</string>
+
+    <string name="email_address_hint">supplier@gmail.com</string>
+    <string name="email_supplier_title">E-mail Address</string>
+
+    <string name="phone_hint">e.g: +84 000-000-000</string>
+    <string name="phone_title">Phone number</string>
+
+    <string name="name_hint">Enter supplier\'s name</string>
+    <string name="name_title">Name</string>
+
+    <string name="quantity_title">Quantity</string>
+
+    <string name="price_title">Price</string>
+    <string name="price_currency">$</string>
+
+    <string name="product_name_title">Product_name</string>
+
+    <string name="currency_detail">$/item</string>
+
+    <string name="action_save">Save item</string>
+
+    <string name="editor_activity_title_new_item">Add new Item</string>
+    <string name="editor_activity_title_edit_item">Edit Item</string>
+
+    <string name="menu_order_item">Order more</string>
+    <string name="menu_delete_item">Delete Item</string>
+    <string name="menu_delete_all">Delete All</string>
+
+    <string name="order_message">You can order by email or phone number</string>
+
+    <string name="delete_message">You sure want to delete?</string>
+    <string name="delete_accept">Delete</string>
+    <string name="delete_cancel">Cancel</string>
+
+    <string name="action_add_dummy_data">Add dummy data</string>
+
+    <string name="image_selected">Select image</string>
+    <string name="image_title">Image</string>
+
+    <string name="unsaved_dialog_message">There are unsaved changes. You sure want to continue?</string>
+    <string name="unsaved_acception">Discard</string>
+    <string name="unsaved_cancel">Keep editing</string>
+</resources>
