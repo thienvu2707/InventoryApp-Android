@@ -43,11 +43,22 @@
     <string name="delete_cancel">Cancel</string>
 
     <string name="action_add_dummy_data">Add dummy data</string>
+    <string name="add_dummy_data_msg">Add 1 dummy data</string>
 
     <string name="image_selected">Select image</string>
     <string name="image_title">Image</string>
 
     <string name="unsaved_dialog_message">There are unsaved changes. You sure want to continue?</string>
-    <string name="unsaved_acception">Discard</string>
+    <string name="unsaved_accept">Discard</string>
     <string name="unsaved_cancel">Keep editing</string>
+
+    <string name="item_id">itemId</string>
+
+    <string name="galaxyS8_name">Samsung Galaxy S8</string>
+    <string name="galaxyS8_price">500</string>
+    <string name="galaxyS8_supplier">Thien Vu</string>
+    <string name="galaxyS8_supplier_phone">+84 000 000 000</string>
+    <string name="galaxyS8_supplier_email">thienvu@gmail.com</string>
+    <string name="galaxyS8_image">android.resource://com.example.thienvu.inventoryapp/drawable/galaxy_s8</string>
+
 </resources>
