@@ -28,6 +28,7 @@
     <string name="currency_detail">$/item</string>
 
     <string name="action_save">Save item</string>
+    <string name="save_message">Save item to database</string>
 
     <string name="editor_activity_title_new_item">Add new Item</string>
     <string name="editor_activity_title_edit_item">Edit Item</string>
@@ -37,6 +38,10 @@
     <string name="menu_delete_all">Delete All</string>
 
     <string name="order_message">You can order by email or phone number</string>
+    <string name="phone">Phone</string>
+    <string name="email">E-mail</string>
+    <string name="send_email_title">Re-add new order</string>
+    <string name="send_email_body_message">Please ship to us ASAP more </string>
 
     <string name="delete_message">You sure want to delete?</string>
     <string name="delete_accept">Delete</string>
@@ -55,10 +60,20 @@
     <string name="item_id">itemId</string>
 
     <string name="galaxyS8_name">Samsung Galaxy S8</string>
-    <string name="galaxyS8_price">500</string>
+    <string name="galaxyS8_price">700</string>
     <string name="galaxyS8_supplier">Thien Vu</string>
     <string name="galaxyS8_supplier_phone">+84 000 000 000</string>
     <string name="galaxyS8_supplier_email">thienvu@gmail.com</string>
     <string name="galaxyS8_image">android.resource://com.example.thienvu.inventoryapp/drawable/galaxy_s8</string>
+
+    <string name="missing_product">Missing product </string>
+
+    <string name="check_name">name</string>
+    <string name="check_price">price</string>
+    <string name="check_quantity">quantity</string>
+    <string name="check_sup_name">supplier name</string>
+    <string name="check_sub_phone">supplier phone</string>
+    <string name="check_sub_email">supplier email</string>
+    <string name="missing_image">Missing image</string>
 
 </resources>

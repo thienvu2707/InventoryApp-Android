@@ -11,6 +11,10 @@
         app:showAsAction="always" />
 
     <item
+        android:id="@+id/action_order"
+        android:title="@string/menu_order_item"/>
+
+    <item
         android:id="@+id/delete_item"
         android:title="@string/menu_delete_item" />
 

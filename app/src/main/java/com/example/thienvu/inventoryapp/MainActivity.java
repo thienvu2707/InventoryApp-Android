@@ -75,7 +75,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void clickOnItem(long id) {
         Intent intent = new Intent(this, EditorActivity.class);
-        intent.putExtra(getString(R.string.item_id), id);
+        intent.putExtra("itemId", id);
         startActivity(intent);
     }
 
@@ -98,7 +98,6 @@ public class MainActivity extends AppCompatActivity {
                 addDummyData();
                 adapter.swapCursor(dbHelper.readInventoryStock());
                 Toast.makeText(this, getString(R.string.add_dummy_data_msg), Toast.LENGTH_SHORT).show();
-                return true;
         }
         return super.onOptionsItemSelected(item);
     }
